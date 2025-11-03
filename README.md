@@ -24,5 +24,14 @@ Feel free to reach out for collaborations, projects, or just to say hi!.<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css3-6c9ceb?style=for-the-badge&logo=CSS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css3-6c9ceb?style=for-the-badge&logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-ebcd38?style=for-the-badge&logo=JavaScript&logoColor=white) ![Static Badge](https://img.shields.io/badge/jquery-4abbf7?style=for-the-badge&logo=jQuery&logoColor=white) ![Static Badge](https://img.shields.io/badge/ajax-4084a8?style=for-the-badge&logoColor=white) ![Static Badge](https://img.shields.io/badge/bootstrap5-5c35bd?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Static Badge](https://img.shields.io/badge/tailwindcss-49ebdd?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/RESTful_api-d65689?style=for-the-badge&logoColor=white) ![Static Badge](https://img.shields.io/badge/laravel12-e02626?style=for-the-badge&logo=Laravel&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-6027e6?style=for-the-badge&logo=PHP&logoColor=white)  ![Static Badge](https://img.shields.io/badge/vue3-2dad7e?style=for-the-badge&logo=Vue.js&logoColor=white)
+
+ 
+
+
+
+
+
+
+
 
