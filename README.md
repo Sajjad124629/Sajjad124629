@@ -33,8 +33,8 @@ Feel free to reach out for collaborations, projects, or just to say hi!.<br>
 ## 🔥 Github stats :
  [![Sajjad Hossain's current streak](https://streak-stats.demolab.com/?user=Sajjad124629&count_private=true&theme=blue-white&title_color=00b3ff)](#)
  
- 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sajjad124629&layout=compact&count_private=true&theme=blue-black&title_color=00b3ff)](#)
+ <!--
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sajjad124629&layout=compact&count_private=true&theme=blue-black&title_color=00b3ff)](#) -->
  
 
 
